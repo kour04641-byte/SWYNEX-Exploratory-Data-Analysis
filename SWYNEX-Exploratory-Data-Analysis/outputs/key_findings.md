@@ -1,0 +1,11 @@
+- Orders with a total: 9,977 | revenue: $89,096
+- Average order value: $8.93 | median: $8.00 | max: $25.00
+- Top 3 items share: 51.8% | bottom 3: 18.9%
+- Most orders: Coffee (1,286) | fewest: Smoothie (1,094)
+- Avg daily revenue by month: min 222 (2023-07) max 245 (2023-06)
+- Avg daily revenue by weekday: min 225 (Wednesday) max 238 (Thursday)
+- Location revenue split: {'In-store': 50.6, 'Takeaway': 49.4}
+- Payment revenue split: {'Cash': 33.3, 'Credit Card': 33.4, 'Digital Wallet': 33.3}
+- IQR outliers in order value within items: 0
+- Correlation with total_spent: quantity 0.7, price 0.65
+- Known-value share (%): {'Location': 60.4, 'Payment method': 68.2, 'Item': 95.2, 'Date': 95.4, 'Quantity': 99.8, 'Total spent': 99.8, 'Price': 99.9}
